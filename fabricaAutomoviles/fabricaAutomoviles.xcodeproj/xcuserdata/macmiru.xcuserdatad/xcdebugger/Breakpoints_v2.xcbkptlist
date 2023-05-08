@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "67A18D77-2726-4D3C-92DE-6152F9932F5C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9426D773-CC05-4BFA-B560-D460857E30FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2806F48-5F62-4179-8D37-D1D24EAD9EF5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "crearAutomovil(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30A3E2DE-AE52-4C60-A1B6-05CB2F9F3617"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "crearAutomovilMazda(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BB42EC3-E41F-485A-9A83-C409382B8727"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "mostrarInformacion(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6BB42EC3-E41F-485A-9A83-C409382B8727 - 505824aa42ead58c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fabricaAutomoviles.ViewControllerSegundaPantalla.mostrarInformacion(Any) -&gt; ()"
+                  moduleName = "fabricaAutomoviles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmiru/Desktop/fabricaAutomoviles/fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "6BB42EC3-E41F-485A-9A83-C409382B8727 - 505824aa42ead58c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fabricaAutomoviles.ViewControllerSegundaPantalla.mostrarInformacion(Any) -&gt; ()"
+                  moduleName = "fabricaAutomoviles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmiru/Desktop/fabricaAutomoviles/fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "342">
+               </Location>
+               <Location
+                  uuid = "6BB42EC3-E41F-485A-9A83-C409382B8727 - 505824aa42ead58c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fabricaAutomoviles.ViewControllerSegundaPantalla.mostrarInformacion(Any) -&gt; ()"
+                  moduleName = "fabricaAutomoviles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmiru/Desktop/fabricaAutomoviles/fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1726">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7708210F-85B3-47B3-B7D4-268BB38ACDC0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "mostrarInformacion(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8446786-52A9-4D5A-87AB-EE10AFA415D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "mostrarInformacion(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45688B60-4A8B-4CA2-81A6-B02324E2C1F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "encender(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23EE43EC-1126-4259-9049-2D65A5638A0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "encender(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "23EE43EC-1126-4259-9049-2D65A5638A0D - f3b381f430c7780f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fabricaAutomoviles.ViewControllerSegundaPantalla.encender(Any) -&gt; ()"
+                  moduleName = "fabricaAutomoviles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmiru/Desktop/fabricaAutomoviles/fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  uuid = "23EE43EC-1126-4259-9049-2D65A5638A0D - f3b381f430c7780f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fabricaAutomoviles.ViewControllerSegundaPantalla.encender(Any) -&gt; ()"
+                  moduleName = "fabricaAutomoviles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmiru/Desktop/fabricaAutomoviles/fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "23EE43EC-1126-4259-9049-2D65A5638A0D - f3b381f430c7780f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fabricaAutomoviles.ViewControllerSegundaPantalla.encender(Any) -&gt; ()"
+                  moduleName = "fabricaAutomoviles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmiru/Desktop/fabricaAutomoviles/fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1090">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85A7F0D3-8CA4-45E8-83C6-40CF2BAF43C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "encender(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "876B7A7B-9A7B-483B-90CD-1684F8578D71"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "apagar(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "876B7A7B-9A7B-483B-90CD-1684F8578D71 - 2b0433c209765ef9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fabricaAutomoviles.ViewControllerSegundaPantalla.apagar(Any) -&gt; ()"
+                  moduleName = "fabricaAutomoviles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmiru/Desktop/fabricaAutomoviles/fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  uuid = "876B7A7B-9A7B-483B-90CD-1684F8578D71 - 2b0433c209765ef9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fabricaAutomoviles.ViewControllerSegundaPantalla.apagar(Any) -&gt; ()"
+                  moduleName = "fabricaAutomoviles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmiru/Desktop/fabricaAutomoviles/fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "876B7A7B-9A7B-483B-90CD-1684F8578D71 - 2b0433c209765ef9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fabricaAutomoviles.ViewControllerSegundaPantalla.apagar(Any) -&gt; ()"
+                  moduleName = "fabricaAutomoviles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmiru/Desktop/fabricaAutomoviles/fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87E90D12-EB6D-4933-B331-158EF0073F17"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "apagar(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12D6D749-3759-4B25-AE6F-90FF2CB0AA95"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "apagar(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A274735-8342-4B69-955E-20C0108D5241"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "acelerar(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A274735-8342-4B69-955E-20C0108D5241 - a5ce57ce2e10ebf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fabricaAutomoviles.ViewControllerSegundaPantalla.acelerar(Any) -&gt; ()"
+                  moduleName = "fabricaAutomoviles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmiru/Desktop/fabricaAutomoviles/fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  uuid = "9A274735-8342-4B69-955E-20C0108D5241 - a5ce57ce2e10ebf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fabricaAutomoviles.ViewControllerSegundaPantalla.acelerar(Any) -&gt; ()"
+                  moduleName = "fabricaAutomoviles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmiru/Desktop/fabricaAutomoviles/fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "9A274735-8342-4B69-955E-20C0108D5241 - a5ce57ce2e10ebf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fabricaAutomoviles.ViewControllerSegundaPantalla.acelerar(Any) -&gt; ()"
+                  moduleName = "fabricaAutomoviles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmiru/Desktop/fabricaAutomoviles/fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "1034">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1284B2F-7BCD-4CC5-B9C9-825DDC8BDA18"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "acelerar(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "592AF29D-EC68-4A01-851D-4218DADD8FDA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "acelerar(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AEB23324-16C7-4790-B484-F7C1B983C60E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AEB23324-16C7-4790-B484-F7C1B983C60E - 3617c18bedf392f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fabricaAutomoviles.ViewControllerSegundaPantalla.viewDidLoad() -&gt; ()"
+                  moduleName = "fabricaAutomoviles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmiru/Desktop/fabricaAutomoviles/fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "AEB23324-16C7-4790-B484-F7C1B983C60E - 3617c18bedf392f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fabricaAutomoviles.ViewControllerSegundaPantalla.viewDidLoad() -&gt; ()"
+                  moduleName = "fabricaAutomoviles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmiru/Desktop/fabricaAutomoviles/fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "274">
+               </Location>
+               <Location
+                  uuid = "AEB23324-16C7-4790-B484-F7C1B983C60E - 3617c18bedf392f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fabricaAutomoviles.ViewControllerSegundaPantalla.viewDidLoad() -&gt; ()"
+                  moduleName = "fabricaAutomoviles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmiru/Desktop/fabricaAutomoviles/fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "919">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "110BBC3B-2AD9-48C5-ADB3-5453363EB8CB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fabricaAutomoviles/ViewControllerSegundaPantalla.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "apagar(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
